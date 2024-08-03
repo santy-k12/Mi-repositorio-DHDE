@@ -5,10 +5,10 @@ Este proyecto tiene como objetivo aprender y practicar el uso de Git y GitHub pa
 
 ## 👥 Miembros del Equipo :)
 
-### 🌟 Santiago 💻​
+### 🌟 Santiago 💻​🎧​
 - **Rol**: Investigación sobre las funcionalidades principales de Figma
 - **Contribuciones**: Breve descripción de las contribuciones
 
-### 🌟 Tatiana 💻​​
+### 🌟 Tatiana 🎧​❤️​
 - **Rol**: Investigación sobre los casos de uso de Figma
 - **Contribuciones**: _Las herramientas de prototipado_ de Figma facilitan el desarrollo y el intercambio de prototipos interactivos, de alta fidelidad y sin código. _Las herramienta en diseño_ se divide en: Diseño UI y Diseño XU

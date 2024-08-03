@@ -38,3 +38,7 @@ Figma se utiliza en diversas aplicaciones en el ámbito del diseño y prototipad
 - **Presentaciones y Feedback**: Facilitación de la revisión de diseños. 🗣️
 - **Integración con otras herramientas**: Conexión con plataformas como Slack y JIRA. 🔗
 - **Diseño para Marketing y Materiales Gráficos**: Creación de gráficos y materiales visuales. 🎉
+
+## Conclusiones ✅
+
+Figma se ha establecido como una herramienta clave en el ámbito del diseño, gracias a su enfoque colaborativo y su versatilidad. Permite a los diseñadores crear, prototipar y compartir de manera eficiente, lo que la convierte en una solución integral para equipos creativos.

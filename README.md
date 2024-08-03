@@ -1,4 +1,4 @@
-# DHDE-3: Control de Versiones
+### DHDE-3: Control de Versiones
 
 # 🌟 Proyecto de Introducción a Figma 🌟
 

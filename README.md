@@ -8,10 +8,12 @@ Este proyecto tiene como objetivo aprender y practicar el uso de Git y GitHub pa
 
 ### 🌟 Santiago 💻​🎧​
 - **Rol**: Investigación sobre las funcionalidades principales de Figma
+- **Usuario de Git**: santy-k12
 - **Contribuciones**: Figma ofrece accesibilidad desde cualquier dispositivo y facilita la exportación de activos en múltiples formatos. 
 
 ### 🌟 Tatiana 🎧​❤️​
 - **Rol**: Investigación sobre los casos de uso de Figma
+- **Usuario de Git**: tatii0801
 - **Contribuciones**: _Las herramientas de prototipado_ de Figma facilitan el desarrollo y el intercambio de prototipos interactivos, de alta fidelidad y sin código. _Las herramienta en diseño_ se divide en: Diseño UI y Diseño XU
 
 ## ✨ Funcionalidades Principales de Figma🛠️

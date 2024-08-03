@@ -41,4 +41,6 @@ Figma se utiliza en diversas aplicaciones en el ámbito del diseño y prototipad
 
 ## Conclusiones ✅
 
-Figma se ha establecido como una herramienta clave en el ámbito del diseño, gracias a su enfoque colaborativo y su versatilidad. Permite a los diseñadores crear, prototipar y compartir de manera eficiente, lo que la convierte en una solución integral para equipos creativos.
+Figma se ha establecido como una herramienta clave en el ámbito del diseño, gracias a su enfoque colaborativo y su versatilidad. Permite a los diseñadores crear, prototipar y compartir de manera fácil, lo que la convierte en una solución integral para equipos creativos.
+
+Figma se ha convertido en una herramienta esencial en el diseño actual, gracias a su enfoque en la colaboración y su flexibilidad. Lo que ha cambiado es la forma en que los diseñadores trabajan juntos. Al mejorar la comunicación y estimular la creatividad, Figma se ha vuelto una solución clave para diseñadores y equipos de desarrollo, transformando el proceso de diseño colaborativo en uno más dinámico y productivo.

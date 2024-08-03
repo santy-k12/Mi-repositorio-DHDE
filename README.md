@@ -26,5 +26,15 @@ Figma es una herramienta de diseño colaborativo que ofrece diversas funcionalid
 - **Accesibilidad multiplataforma**: Basado en la nube, accesible desde cualquier dispositivo. ☁️
 - **Exportación de activos**: Permite exportar diseños en múltiples formatos (PNG, SVG, PDF, etc.). 📂
 
-## 🎨 Casos de Uso de Figma
-(Aquí el miembro 2 debe agregar información sobre los casos de uso de Figma en diseño y prototipado)
+## 🎨 Casos de Uso de Figma 💡
+
+Figma se utiliza en diversas aplicaciones en el ámbito del diseño y prototipado:
+
+- **Diseño de Interfaces de Usuario (UI)**: Creación de interfaces para aplicaciones y sitios web. 🌐
+- **Diseño de Experiencias de Usuario (UX)**: Mapeo de flujos de usuario y creación de wireframes. 📊
+- **Prototipado Interactivo**: Simulación de flujos de usuario para validar conceptos. 🔄
+- **Colaboración en Tiempo Real**: Mejora la comunicación y revisión entre equipos. 🤝
+- **Creación de Sistemas de Diseño**: Desarrollo de bibliotecas de componentes reutilizables. 📚
+- **Presentaciones y Feedback**: Facilitación de la revisión de diseños. 🗣️
+- **Integración con otras herramientas**: Conexión con plataformas como Slack y JIRA. 🔗
+- **Diseño para Marketing y Materiales Gráficos**: Creación de gráficos y materiales visuales. 🎉
